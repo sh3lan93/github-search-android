@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search Github</string>
+    <string name="txtsearchhere">Search</string>
+    <string name="forbidden_error">Forbidden</string>
+    <string name="io_error">"Please check your connection "</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
